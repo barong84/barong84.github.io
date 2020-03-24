@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blogbarong84.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-24T12:58:56.434Z</updated>
+    <updated>2020-03-24T13:15:00.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blogbarong84.github.io"/>
     <link rel="self" href="https://blogbarong84.github.io/atom.xml"/>
@@ -10,50 +10,6 @@
     <logo>https://blogbarong84.github.io/images/avatar.png</logo>
     <icon>https://blogbarong84.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[2019年作品]]></title>
-        <id>https://blogbarong84.github.io/post/2019-nian-zuo-pin/</id>
-        <link href="https://blogbarong84.github.io/post/2019-nian-zuo-pin/">
-        </link>
-        <updated>2020-03-06T12:28:58.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="一月">一月</h2>
-<p><img src="https://blogbarong84.github.io/post-images/1583498594886.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498603163.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498609955.JPG" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498635924.JPG" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498641232.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498647910.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498653232.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498659147.jpg" alt="" loading="lazy"></p>
-<h2 id="二月">二月</h2>
-<p><img src="https://blogbarong84.github.io/post-images/1583498755498.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498757915.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498775467.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498782460.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498804190.jpg" alt="" loading="lazy"><br>
-<img src="https://blogbarong84.github.io/post-images/1583498820762.jpg" alt="" loading="lazy"></p>
-<h2 id="三月">三月</h2>
-<figure data-type="image" tabindex="1"><img src="https://blogbarong84.github.io/post-images/1583498879536.jpg" alt="" loading="lazy"></figure>
-<h2 id="四月">四月</h2>
-<figure data-type="image" tabindex="2"><img src="https://blogbarong84.github.io/post-images/1583498894223.jpg" alt="" loading="lazy"></figure>
-<h2 id="五月">五月</h2>
-<figure data-type="image" tabindex="3"><img src="https://blogbarong84.github.io/post-images/1583498915748.jpg" alt="" loading="lazy"></figure>
-<h2 id="六月">六月</h2>
-<figure data-type="image" tabindex="4"><img src="https://blogbarong84.github.io/post-images/1583498933701.jpg" alt="" loading="lazy"></figure>
-<h2 id="七月">七月</h2>
-<figure data-type="image" tabindex="5"><img src="https://blogbarong84.github.io/post-images/1583499111153.jpg" alt="" loading="lazy"></figure>
-<h2 id="八月">八月</h2>
-<figure data-type="image" tabindex="6"><img src="https://blogbarong84.github.io/post-images/1583499216992.jpg" alt="" loading="lazy"></figure>
-<h2 id="九月">九月</h2>
-<figure data-type="image" tabindex="7"><img src="https://blogbarong84.github.io/post-images/1583499239957.jpg" alt="" loading="lazy"></figure>
-<h2 id="十月">十月</h2>
-<figure data-type="image" tabindex="8"><img src="https://blogbarong84.github.io/post-images/1583499256557.jpg" alt="" loading="lazy"></figure>
-<h2 id="十一月">十一月</h2>
-<figure data-type="image" tabindex="9"><img src="https://blogbarong84.github.io/post-images/1583499363013.jpg" alt="" loading="lazy"></figure>
-<h2 id="十二月">十二月</h2>
-<figure data-type="image" tabindex="10"><img src="https://blogbarong84.github.io/post-images/1583499389124.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://blogbarong84.github.io/post/hello-gridea/</id>
