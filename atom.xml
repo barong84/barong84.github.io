@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://barong84.github.io</id>
     <title>Barong&apos;s Blog</title>
-    <updated>2020-04-13T14:09:43.962Z</updated>
+    <updated>2020-06-24T08:58:17.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://barong84.github.io"/>
     <link rel="self" href="https://barong84.github.io/atom.xml"/>
@@ -16,6 +16,25 @@
         <link href="https://barong84.github.io/post/plog-1/">
         </link>
         <updated>2020-04-06T07:57:50.000Z</updated>
+        <content type="html"><![CDATA[<p><code>PLOG</code></p>
+<iframe src="https://open.spotify.com/embed/track/6aZK4auLrzkNuNnic9MIZJ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p>PLOG顾名思义就是Photo Log,即照片记录/日志。如果你厌倦了打开剪辑软件剪辑VLOG的话，可以试试拍PLOG，忘记剪视频的烦恼。</p>
+<img src="https://barong84.github.io/post-images/plog/2020/0126/IMG142052.jpg" style="zoom:Infinity%;"/>
+<p>一月26日,午饭后散步。</p>
+<img src="https://barong84.github.io/post-images/plog/2020/0127/DSC02927.jpg" style="zoom:Infinity%;"/>
+<p>一月27日，归家途中。</p>
+<img src="https://barong84.github.io/post-images/plog/2020/0217/DSC03045.jpg" style="zoom:Infinity%;"/>
+<p>二月17日，爬山</p>
+<img src="https://barong84.github.io/post-images/plog/2020/0219/DSC03066.jpg" style="zoom:Infinity%;"/>
+<p>二月19日，山坡上的松柏</p>
+<img src="https://barong84.github.io/post-images/plog/2020/0223/IMG161650.jpg" style="zoom:Infinity%;"/>
+<img src="https://barong84.github.io/post-images/plog/2020/0223/IMG1582447.JPG" style="zoom:Infinity%;"/>
+<p>二月23日，下山途中</p>
+<img src="https://barong84.github.io/post-images/plog/2020/0307/DSC03101.jpg"  style="zoom:Infinity%;" />
+<img src="https://barong84.github.io/post-images/plog/2020/0307/DSC03111.jpg"  style="zoom:Infinity%;" />
+<img src="https://barong84.github.io/post-images/plog/2020/0307/DSC03116.jpg"  style="zoom:Infinity%;" />
+<p>三月7日，山景</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[像素画]]></title>
@@ -23,5 +42,24 @@
         <link href="https://barong84.github.io/post/chu-ci-chuang-zuo-xiang-su-hua/">
         </link>
         <updated>2020-03-29T12:47:13.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="https://open.spotify.com/embed/track/3hgiDEfCLvGlaZ0rcWEHje" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<blockquote>
+<p>本次像素画使用Pixel Studio创作</p>
+</blockquote>
+<h3 id="软件介绍">软件介绍</h3>
+<p>Pixel Studio是为艺术家和游戏开发者开发的全新像素艺术编辑器，简洁、快速且便携。无论您是初学者还是专业人士，随时随地都可以创作令人赞叹的像素艺术！提供图层支持、动画和其他有用的工具——您要做的只是创建酷炫的工程。个人认为是一款挺不错的像素画创作软件。</p>
+<p>下载/预览 : <a href="https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/">Steam</a> | <a href="https://www.microsoft.com/zh-cn/p/pixel-studio/9p7xs7vh1r3j#activetab=pivot:overviewtab">Microsoft Store</a> | <a href="https://apps.apple.com/cn/app/pixel-studio-for-pixel-art/id1477015249">mac os</a> | <a href="https://apps.apple.com/cn/app/pixel-studio-for-pixel-art/id1404203859">iOS</a></p>
+<h3 id="软件界面">软件界面</h3>
+<figure data-type="image" tabindex="1"><img src="https://barong84.github.io/post-images/software_img.png?raw=true" alt="" loading="lazy"></figure>
+<p><font color=808080>本示例图使用官方素材进行绘制</font></p>
+<h3 id="输出效果">输出效果</h3>
+<p>由于本人在绘画上没有什么美术基础，笨手笨脚的临摹了图片</p>
+<figure data-type="image" tabindex="2"><img src="https://barong84.github.io/post-images/1.png?raw=true" alt="" loading="lazy"></figure>
+<p>创建为正方形的像素画</p>
+<figure data-type="image" tabindex="3"><img src="https://barong84.github.io/post-images/2.png?raw=true" alt="" loading="lazy"></figure>
+<p>自定义比例创作的宽幅</p>
+<h3 id="结语">结语</h3>
+<p>个人认为这款软件对我这种没用美术基础的人上手较为友好。有能力的可以尝试一下创作,发挥出你的灵感。</p>
+]]></content>
     </entry>
 </feed>
