@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://barong84.github.io</id>
     <title>Barong&apos;s Blog</title>
-    <updated>2020-10-17T00:27:21.779Z</updated>
+    <updated>2020-10-17T00:50:17.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://barong84.github.io"/>
     <link rel="self" href="https://barong84.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://barong84.github.io/images/avatar.png</logo>
     <icon>https://barong84.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Barong&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[宽幅]]></title>
+        <id>https://barong84.github.io/post/kuan-fu/</id>
+        <link href="https://barong84.github.io/post/kuan-fu/">
+        </link>
+        <updated>2020-10-17T00:40:24.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="伪宽幅">伪宽幅</h2>
+<p>裁剪为宽幅比例达到宽幅效果<br>
+<img src="https://barong84.github.io/post-images/pan/16/IMG_20161001_125340.jpg?raw=true" alt="" loading="lazy"><br>
+<img src="https://barong84.github.io/post-images/pan/17/IMG_9497.jpg?raw=true" alt="" loading="lazy"><br>
+<img src="https://barong84.github.io/post-images/pan/18/DSC00463.jpg?raw=true" alt="" loading="lazy"><br>
+<img src="https://barong84.github.io/post-images/pan/19/DSC02243.jpg?raw=true" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一组胶片]]></title>
         <id>https://barong84.github.io/post/flim1/</id>
