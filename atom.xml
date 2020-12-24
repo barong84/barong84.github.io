@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://barong84.github.io</id>
     <title>Barong&apos;s Blog</title>
-    <updated>2020-12-24T09:39:09.630Z</updated>
+    <updated>2020-12-24T11:03:50.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://barong84.github.io"/>
     <link rel="self" href="https://barong84.github.io/atom.xml"/>
@@ -29,15 +29,15 @@
 <p>说白了，认识了一些新朋友常常被吐槽没有更新生活动态。朋友圈一直处于停更和半停更之间。我常常在想能不能搭建一个个人博客，偶尔分享近期的生活动态，做回互联网原住民吧🤪。</p>
 <p>搭建博客为了巩固<code>HTML</code>代码，挺怕太旧没弄然后把基本的东西给忘光了。</p>
 <h2 id="今年拍了什么">今年拍了什么</h2>
-<img src="https://raw.githubusercontent.com/barong84/barong84.github.io/master/post-images/plog/2020/j.jpg" >
+<img src="https://github.com/barong84/barong84.github.io/blob/master/post-images/plog/j.jpg?raw=true" >
 <p align="center" style="color:#888888">呆在农村的那段日子里</p>
-<img src="https://raw.githubusercontent.com/barong84/barong84.github.io/master/post-images/plog/2020/403141-web.jpg" >
+<img src="https://github.com/barong84/barong84.github.io/blob/master/post-images/plog/403141-web.jpg?raw=true" >
 <p align="center" style="color:#888888">1:1</p>
-<img src="https://raw.githubusercontent.com/barong84/barong84.github.io/master/post-images/plog/2020/pan-web.jpg">
-<img src="https://raw.githubusercontent.com/barong84/barong84.github.io/master/post-images/plog/2020/pan2-web.jpg" >
-<img src="https://raw.githubusercontent.com/barong84/barong84.github.io/master/post-images/plog/2020/pan3-web.jpg" >
+<img src="https://github.com/barong84/barong84.github.io/blob/master/post-images/plog/pan-web.jpg?raw=true">
+<img src="https://github.com/barong84/barong84.github.io/blob/master/post-images/plog/pan2-web.jpg?raw=true" >
+<img src="https://github.com/barong84/barong84.github.io/blob/master/post-images/plog/pan3-web.jpg?raw=true" >
 <p align="center" style="color:#888888">宽幅</p>
-<img src="https://raw.githubusercontent.com/barong84/barong84.github.io/master/post-images/plog/2020/monochrome-web.jpg"  >
+<img src="https://github.com/barong84/barong84.github.io/blob/master/post-images/plog/monochrome-web.jpg?raw=true"  >
 <p align="center" style="color:#888888">黑白</p>
 <p>开始尝试街头题材和继续记录这糟糕的一年。</p>
 <h2 id="听了什么播客">听了什么播客</h2>
@@ -78,12 +78,12 @@
 <p>这个为todo list，会实时更新，并在明年的年度总结中反馈。</p>
 </blockquote>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9619433"><label class="task-list-item-label" for="task-item-9619433"> 计算机技能</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5349983"><label class="task-list-item-label" for="task-item-5349983"> 策划摄影集</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9390305"><label class="task-list-item-label" for="task-item-9390305"> 摄影作品输出</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4601918"><label class="task-list-item-label" for="task-item-4601918"> 学烘焙咖啡豆</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4923952"><label class="task-list-item-label" for="task-item-4923952"> 解决拖延症</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-998131"><label class="task-list-item-label" for="task-item-998131"> 经营博客</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7562629"><label class="task-list-item-label" for="task-item-7562629"> 计算机技能</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1148081"><label class="task-list-item-label" for="task-item-1148081"> 策划摄影集</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-419398"><label class="task-list-item-label" for="task-item-419398"> 摄影作品输出</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8046971"><label class="task-list-item-label" for="task-item-8046971"> 学烘焙咖啡豆</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2574581"><label class="task-list-item-label" for="task-item-2574581"> 解决拖延症</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2494406"><label class="task-list-item-label" for="task-item-2494406"> 经营博客</label></li>
 </ul>
 ]]></content>
     </entry>
