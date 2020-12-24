@@ -4,7 +4,7 @@
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>关于 | Barong&#39;s Blog</title>
-<link rel="shortcut icon" href="https://barong84.github.io/favicon.ico?v=1602895644466">
+<link rel="shortcut icon" href="https://barong84.github.io/favicon.ico?v=1608800494188">
 <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
 <link rel="stylesheet" href="https://barong84.github.io/styles/main.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
@@ -100,10 +100,11 @@
 <blockquote>
 <p>欢迎来到我的个人博客，很高兴遇见你！🤝</p>
 </blockquote>
-<p>摄影爱好者(非资深)、喜欢折腾电子产品、听音乐十级选手😜<br>
+<p>摄影爱好者(非资深)、喜欢折腾电子产品、听音乐十级选手😜、喜欢泡咖啡<br>
 这是我的个人博客，不定期更新。如果喜欢的话请订阅（RSS订阅链接在底部👇​）<br>
 附：<a href="https://sspai.com/post/56391">RSS订阅教程</a></p>
 <h2 id="版权声明">版权声明</h2>
+<figure data-type="image" tabindex="2"><img src="https://barong84.github.io/post-images/1607588787561.svg" alt="" loading="lazy"></figure>
 <p>本博客所有的原创文章,作者保留所有版权。转载需标注原始博文地址。</p>
 
                 </div>
@@ -114,31 +115,35 @@
 
         
             
+                <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-            
-                <link rel="stylesheet" href="https://unpkg.com/disqusjs@1.1/dist/disqusjs.css">
-<script src="https://unpkg.com/disqusjs@1.1/dist/disqus.js"></script>
-
-<div id="disqus_thread"></div>
+<div id="gitalk-container"></div>
 
 <script>
 
-var options = {
-  shortname: 'https-barong84-github-io',
-  apikey: 'UDlweTCKPRXiH87D1QwOPltvK6FawoIwmDexaflL6YRrSYOn3VFnTuYtmuIKSFLa',
-}
-if ('https://disqus.com/api/oauth/2.0/access_token/') {
-  options.api = 'https://disqus.com/api/oauth/2.0/access_token/'
-}
-var dsqjs = new DisqusJS(options)
+  var gitalk = new Gitalk({
+    clientID: 'e8a23a90b176142ef125',
+    clientSecret: 'd2ea86298bb837d4557c795a6b85ee924f0c3e3b',
+    repo: 'barong84.github.io',
+    owner: 'barong84',
+    admin: ['barong84'],
+    id: location.pathname,      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
 
 </script>
+
+            
 
             
         
 
         <div class="site-footer gt-c-content-color-first">
-    <div class="slogan gt-c-content-color-first">溫故知新意，予君一席談。</div>
+    <div class="slogan gt-c-content-color-first">溫故知新意，予君一席談。<br>
+<a href="https://peing.net/zh-CN/barong84" target="_black">匿名问答</a>&nbsp<a href="https://github.com/barong84/barong84.github.io/issues/2" target="_black">Issues</a></div>
     <div class="social-container">
         
             
@@ -154,7 +159,7 @@ var dsqjs = new DisqusJS(options)
             
         
     </div>
-    Theme by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | Made by Barong | <a href="https://barong84.github.io/atom.xml" target="_blank">RSS</a>
+    Theme by <a href="https://github.com/imhanjie/gridea-theme-pure" target="_blank">Pure</a> | Made by Gridea | <a href="https://barong84.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
 <script>
