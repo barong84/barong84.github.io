@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://barong84.github.io</id>
     <title>Barong&apos;s Blog</title>
-    <updated>2020-12-24T11:03:50.344Z</updated>
+    <updated>2020-12-31T06:49:56.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://barong84.github.io"/>
     <link rel="self" href="https://barong84.github.io/atom.xml"/>
@@ -78,12 +78,12 @@
 <p>这个为todo list，会实时更新，并在明年的年度总结中反馈。</p>
 </blockquote>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7562629"><label class="task-list-item-label" for="task-item-7562629"> 计算机技能</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1148081"><label class="task-list-item-label" for="task-item-1148081"> 策划摄影集</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-419398"><label class="task-list-item-label" for="task-item-419398"> 摄影作品输出</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8046971"><label class="task-list-item-label" for="task-item-8046971"> 学烘焙咖啡豆</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2574581"><label class="task-list-item-label" for="task-item-2574581"> 解决拖延症</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2494406"><label class="task-list-item-label" for="task-item-2494406"> 经营博客</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1162968"><label class="task-list-item-label" for="task-item-1162968"> 计算机技能</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8031678"><label class="task-list-item-label" for="task-item-8031678"> 策划摄影集</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9204162"><label class="task-list-item-label" for="task-item-9204162"> 摄影作品输出</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7509018"><label class="task-list-item-label" for="task-item-7509018"> 学烘焙咖啡豆</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9150323"><label class="task-list-item-label" for="task-item-9150323"> 解决拖延症</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8804141"><label class="task-list-item-label" for="task-item-8804141"> 经营博客</label></li>
 </ul>
 ]]></content>
     </entry>
